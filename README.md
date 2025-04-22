@@ -65,9 +65,10 @@ Created a mobile app using Java and Android Studio to track fitness and health m
 ---
 ## 📊 GitHub Stats
 
-![Gelead's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username](https://github.com/gelead)&show_icons=true&theme=radical)
+![Gelead's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelead&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username](https://github.com/gelead)&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gelead&layout=compact&theme=tokyonight)
+
 
 
 ## ☕ Let's Connect!
