@@ -16,10 +16,16 @@ I'm eager to apply my technical expertise and collaborate in building world-clas
 ## 🔧 Skills
 
 ### 🖥️ Programming Languages  
-🐍 Python | ☕ Java | ➕ C++ | 🌐 JavaScript
+🐍 Python 
+☕ Java 
+➕ C++ 
+🌐 JavaScript
 
 ### 🌐 Web Development  
-📄 HTML5 | 🎨 CSS3 | 🚀 Tailwind CSS | ⚛️ React
+📄 HTML5 
+🎨 CSS3 
+🚀 Tailwind CSS 
+⚛️ React
 
 ### 📱 Mobile Development  
 📱 Java (Android Studio) | 💙 Flutter
