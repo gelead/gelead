@@ -35,7 +35,7 @@ const Gelead = {
 ---
 
 ### 🛠️ Skills & Technologies
-
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,java,py)
 #### 👨‍💻 Programming Languages
 
 #### 🚀 Frameworks & Libraries
