@@ -40,17 +40,23 @@ const Gelead = {
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,java,py,php,css,mongodb,postgres,nodejs,express,git,vercel,figma,prisma,docker" />
 </a>
 </p>
-#### 👨‍💻 Programming Languages
-
-#### 🚀 Frameworks & Libraries
-
-#### 🛠️ Tools & Platforms
 
 ---
 
 ### 📊 GitHub Analytics
 
----
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=gelead&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelead&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+![Gelead's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gelead&theme=tokyonight&hide_border=true)
 
 ### 🎯 Current Projects
 
