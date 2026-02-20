@@ -1,8 +1,5 @@
-# 👋 I'm Gelead Worku
-
-**Software Engineering Student | Front-End Developer | Tech Enthusiast**
-
----
+👋 Hey, I'm Gelead Worku
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Frontend+Engineer;React+%26+Next.js+Enthusiast;Building+Sustainable+Digital+Solutions" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=gelead&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/> <img src="https://img.shields.io/github/followers/gelead?label=Followers&style=social" alt="followers"/> </p>
 
 ### 👨‍💻 About Me
 
@@ -16,47 +13,36 @@ I'm a passionate Software Engineering student at **AASTU** with a deep interest 
 * ⚡ Fun fact: I believe a good cup of coffee is the best debugging tool!
 
 ---
+🧩 The Gelead Object
 
-### ⚙️ The "Gelead" Object
-
-```javascript
 const Gelead = {
   location: "Addis Ababa, Ethiopia 🇪🇹",
-  education: "Software Engineering @ AASTU",
+  education: "B.Sc Software Engineering @ AASTU",
   graduation: 2026,
-  fields: ["Fullstack Development", "Software Systems"],
-  tools: ["React", "Tailwind CSS", "Python", "Next js"...],
-  focus: "Creating sustainable and user-centric tech solutions",
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "Python"],
+    database: ["MongoDB", "PostgreSQL", "Prisma"],
+    tools: ["Git", "Docker", "Vercel", "Figma"]
+  },
+  currentFocus: "Scalable fullstack systems & modern frontend architecture",
   contact: "geleadw@gmail.com"
 };
 
-```
+---
+
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,python,java,docker,git,vercel,figma" /> </p>
 
 ---
 
-### 🛠️ Skills & Technologies
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,java,py,php,css,mongodb,postgres,nodejs,express,git,vercel,figma,prisma,docker" />
-</a>
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=gelead&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelead&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-</table>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gelead&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelead&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gelead&theme=tokyonight&hide_border=true"/> </p>
 
 ![Gelead's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gelead&theme=tokyonight&hide_border=true)
+
+🏆 Achievements & Activity
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gelead&theme=tokyonight&no-frame=true&row=1&column=6"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=gelead&theme=tokyo-night&hide_border=true"/> </p>
 
 ### 🎯 Current Projects
 
@@ -76,12 +62,23 @@ const Gelead = {
 
 ---
 
-### 📫 Let's Connect
+🌐 Let's Connect
+<p align="left"> <a href="https://linkedin.com/in/gelead-worku"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:geleadw@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/gelead"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
-[LinkedIn](https://linkedin.com/in/gelead-worku) | [Email](mailto:geleadw@gmail.com) | [GitHub](https://www.google.com/search?q=https://github.com/gelead)
-
-**Phone:** +251 938183659
+📞 +251 938183659
 
 ---
 
-**Would you like me to help you set up the actual "Repo" description for one of these projects next?**
+🔥 Engineering Philosophy
+
+“Good software is not just written — it is architected.”
+
+I aim to:
+
+Write maintainable code
+
+Follow clean architecture principles
+
+Build scalable systems
+
+Continuously improve
