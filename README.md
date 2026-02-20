@@ -13,8 +13,9 @@ I'm a passionate Software Engineering student at **AASTU** with a deep interest 
 * ⚡ Fun fact: I believe a good cup of coffee is the best debugging tool!
 
 ---
-🧩 The Gelead Object
+## 🧩 The `Gelead` Object
 
+```javascript
 const Gelead = {
   location: "Addis Ababa, Ethiopia 🇪🇹",
   education: "B.Sc Software Engineering @ AASTU",
@@ -28,7 +29,7 @@ const Gelead = {
   currentFocus: "Scalable fullstack systems & modern frontend architecture",
   contact: "geleadw@gmail.com"
 };
-
+```
 ---
 
 🛠 Tech Stack
