@@ -39,7 +39,7 @@ const Gelead = {
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gelead&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelead&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gelead&theme=tokyonight&hide_border=true"/> </p>
 
-![Gelead's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gelead&theme=tokyonight&hide_border=true)
+
 
 🏆 Achievements & Activity
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gelead&theme=tokyonight&no-frame=true&row=1&column=6"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=gelead&theme=tokyo-night&hide_border=true"/> </p>
